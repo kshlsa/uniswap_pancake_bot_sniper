@@ -1,0 +1,14 @@
+FOR PANCAKESWAP ONLY - BSC NETWORK
+
+MINI TRADING BOT - No Event listening, straight up buying and selling as soon as you launch the bot. Good for people that don't like pancakeswap frontend and like anonymity.
+
+**HOW TO RUN**
+1) This bot is for instant buying and selling. If you want to use this bot as a trading bot you can.
+2) $ npm install (<---- write this after you open the folder in the terminal of your favorite code editor)
+3) Set the variables in "Variables" at the top of bot.js
+4) Set up your websocket URL (ANKR wss: URL)
+5) Input enough funds for fees and purchases into your wallet
+6) Now you can launch the bot and it will IMMEDIATELY buy the token you wanted for the amount you wanted OR You select your token and the output token as BNB and it will SELL
+7) Great bot if you want to SELL your tokens when the time comes, or just want to do it without using pancake frontend that gathers data about you
+
+If you get errors it can mean couple things. Slippage too low, tokens is a scam and doesn't allow selling, token has no liquidity and can't be bought etc.

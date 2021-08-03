@@ -1,0 +1,8 @@
+**HOW TO RUN**
+1) clone pancake folder (Depending on what swap you want to snipe on)
+2) $ npm install (<---- write this after you open the folder in the terminal of your favorite code editor)
+3) Set the variables in "Variables" at the top of bot.js
+4) Set up your websocket URL (ANKR wss: URL)
+5) Input enough funds for fees and purchases into your wallet
+6) ???
+7) Profit
